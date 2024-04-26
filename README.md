@@ -16,4 +16,8 @@ The tested prototype code is shown in the Prototype folder.;
 
 To control the ESP32Cam, I used Yoursunny's library. Details shown in: https://github.com/yoursunny/esp32cam;
 
-The complete code is shown in the Final Design code.
+The DHT11 and DFRobot Oxygen Sensor libraries are mandatory for the ESP32 sensor code.;
+
+The complete code is shown in the Final Design code.;
+
+The .fzz file of the prototype's circuit can be found in the prototype folder. You can use the fritzing to review it.
